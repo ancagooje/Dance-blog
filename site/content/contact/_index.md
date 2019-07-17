@@ -2,8 +2,10 @@
 title: Contact
 logo: /img/210346_164078040311883_1970632_o.jpg
 contact_entries:
-  - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
+  - heading: Contact us
+    text: |-
+      @learndance7
+      ancadances@gmail.com
   - heading: ' '
     text: ' '
 ---
