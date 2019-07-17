@@ -1,7 +1,7 @@
 ---
 title: ' '
 subtitle: ' '
-image: /img/10414447_792039327515748_8680207948426971524_n.jpg
+image: /img/210346_164078040311883_1970632_o.jpg
 blurb:
   heading: 'Bharata Natyam '
   text: >2-
