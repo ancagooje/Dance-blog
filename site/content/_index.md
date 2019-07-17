@@ -1,20 +1,30 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: ' '
+subtitle: ' '
+image: /img/10414447_792039327515748_8680207948426971524_n.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: 'Bharata Natyam '
+  text: >2-
+     This Indian Classical dance style originates in the Southern state of Tamil Nadu about two thousand years ago. 
+    Dance is a lifelong passion and we are happy to share an introduction to
+    this beautiful art form. 
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Learn more
+  text: ' We offer dance workshops, lecture demonstrations and performances that provide an in-depth theoretical or practical experience of the dance style. '
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/p2175516.jpg
+    text: |-
+      Dance workshops
+       for ages children (7+) to adults.  Experience a dance class or a workshop for an interactive experience.More details available soon!
+  - image: /img/1912005_807482335971447_8338506726640106018_o.jpg
+    text: |2
+       Lecture demonstrations & performances
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
 
